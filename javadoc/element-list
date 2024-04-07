@@ -1,0 +1,16 @@
+com.myclinic
+com.myclinic.model
+com.myclinic.model.enumfields
+com.myclinic.repository
+com.myclinic.rest
+com.myclinic.service
+com.myclinic.service.dto
+com.myclinic.service.dto.insertion
+com.myclinic.service.dto.readonly
+com.myclinic.service.dto.update
+com.myclinic.service.exceptions
+com.myclinic.service.util
+com.myclinic.service.util.mapper
+com.myclinic.service.util.validation
+com.myclinic.service.util.validation.insertion
+com.myclinic.service.util.validation.update
